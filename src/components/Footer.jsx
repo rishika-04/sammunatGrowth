@@ -30,7 +30,7 @@ export default function Footer() {
           <ul>
             <li><a href="#audit">Book Free Audit</a></li>
             <li><a href="#contact">Talk to an Expert</a></li>
-            <li><a href="#case-studies">How We Work</a></li>
+            <li><a href="#growth-steps">How We Work</a></li>
           </ul>
         </div>
 

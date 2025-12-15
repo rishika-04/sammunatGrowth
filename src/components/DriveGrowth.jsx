@@ -1,4 +1,4 @@
-export default function CaseStudies() {
+export default function DriveGrowth() {
   return (
     <section id="growth-steps" className="section light reveal">
         

@@ -6,7 +6,7 @@ export default function WhyUs() {
         {/* LEFT IMAGE */}
         <div className="why-image">
   <div className="why-blob">
-    <img src="/why-us.png" alt="Why choose us" />
+    <img src="/whyUs/why-us.png" alt="Why choose us" />
   </div>
 </div>
 

@@ -3,7 +3,8 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Solutions from "./components/Solutions";
 import WhyUs from "./components/WhyUs";
-import CaseStudies from "./components/CaseStudies";
+import DriveGrowth from "./components/DriveGrowth";
+
 import Testimonials from "./components/Testimonials";
 import FreeGrowthAudit from "./components/FreeGrowthAudit";
 
@@ -34,7 +35,7 @@ export default function App() {
       <Hero />
       <Solutions />
       <WhyUs />
-      <CaseStudies />
+      <DriveGrowth />
       <Testimonials />
       <FreeGrowthAudit />
 

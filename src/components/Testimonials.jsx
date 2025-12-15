@@ -24,7 +24,7 @@ export default function Testimonials() {
         {/* RIGHT IMAGE */}
         <div className="testimonial-image">
           <div className="blob-bg testimonial-blob">
-            <img src="/testimonial.png" alt="Client testimonial" />
+            <img src="/testimonial/testimonial.png" alt="Client testimonial" />
           </div>
         </div>
 

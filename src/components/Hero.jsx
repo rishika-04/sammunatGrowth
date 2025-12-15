@@ -27,7 +27,7 @@ export default function Hero() {
 
         <div className="hero-image">
           <img
-            src="/hero-dashboard.png"
+            src="/hero/hero-dashboard.png"
             alt="Business growth dashboard"
           />
         </div>
